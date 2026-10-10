@@ -1,3 +1,5 @@
+import webbrowser
+
 names_list={
     1 : "doremon 3 swordsman movie",
     2 : "pakdam-pakdai",

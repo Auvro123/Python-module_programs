@@ -1,7 +1,6 @@
 import builtins
 import math
 import datetime
-import webbrowser
 
 # print(dir(builtins))
 
