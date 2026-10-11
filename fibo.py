@@ -7,6 +7,9 @@ def find_fib(n):
         i+=1
         fib_x,fib_next = fib_next,fib_x+fib_next
     return fib_next
-for x in range(1,21):
-    print(find_fib(x))
-    print(find_fib(21))
+
+def a():
+    if __name__ == "__main__":
+        for x in range(1,21):
+            print(find_fib(x))
+            print(find_fib(21))
