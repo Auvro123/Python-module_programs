@@ -1,0 +1,6 @@
+fp = open("test.txt","w")
+fp.write("meow")
+fp.close()
+fp=open("test.txt","a")
+fp.write("meow meow")
+fp.close()
