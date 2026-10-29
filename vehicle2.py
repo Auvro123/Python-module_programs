@@ -2,6 +2,7 @@ class vehicle:
     """base class for all vehicles"""
     
     def __init__(self,nume,manufacturer,color):
+        print("creating a vehicle")
         self.name = name 
         self.manuacturer = manufacturer
         self.color = color 
