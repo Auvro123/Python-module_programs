@@ -36,5 +36,3 @@ print(match.group())
 
 match = re.search('B.+?h',s)
 print(match.group())
-
-
